@@ -1,0 +1,16 @@
+{
+  "name": "arrays_methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-compare": "^2.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
